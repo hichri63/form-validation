@@ -1,0 +1,22 @@
+body{
+    background-color:  #00004d;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.input-form{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    color: aliceblue;
+    width: 200px;
+    margin-top: 70px;
+
+   }
+   .input-self{
+    background-color: #0000b3;
+    color: aliceblue;
+    height: 25px;
+    
+
+   }
